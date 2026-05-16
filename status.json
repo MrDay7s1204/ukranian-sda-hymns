@@ -1,5 +1,6 @@
 {
-  "overall": "ok",
+  "overall": "warn",
+  "reason": "",
   "services": [
     { "name": "Вебсайт",      "status": "ok", "icon": "web"      },
     { "name": "GitHub",       "status": "ok", "icon": "github"   },
