@@ -1,0 +1,11 @@
+{
+  "overall": "ok",
+  "reason": "",
+  "services": [
+    { "name": "Вебсайт",      "status": "ok", "icon": "web"      },
+    { "name": "GitHub",       "status": "ok", "icon": "github"   },
+    { "name": "Релізи / APK", "status": "ok", "icon": "apk"      },
+    { "name": "Сервер",       "status": "ok", "icon": "server"   },
+    { "name": "Дзеркало",     "status": "ok", "icon": "дзеркало" }
+  ]
+}
