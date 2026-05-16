@@ -1,6 +1,10 @@
 {
-"status_server": "maintenance",
-"status_website": "offline",
-"status_backend": "offline",
-"reason": "Увага! Технічні роботи ⚠️\nШановні користувачі, сьогодні вночі відбудеться планове оновлення ядра фреймворку V. У зв'язку з цим сайт, бекенд та застосунки будуть тимчасово недоступні."
+  "overall": "ok",
+  "services": [
+    { "name": "Вебсайт",      "status": "ok", "icon": "web"      },
+    { "name": "GitHub",       "status": "ok", "icon": "github"   },
+    { "name": "Релізи / APK", "status": "ok", "icon": "apk"      },
+    { "name": "Сервер",       "status": "ok", "icon": "server"   },
+    { "name": "Дзеркало",     "status": "ok", "icon": "дзеркало" }
+  ]
 }
